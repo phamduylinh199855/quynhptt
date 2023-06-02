@@ -1,0 +1,18 @@
+.body{
+    max-height: 1920px;
+    max-width: 1080px;
+}
+p>img{
+    weight: 100px;
+    height: 100px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: yellow;
+    box-shadow: 5px green;
+
+}
+p>img:hover{
+    box-shadow: 20px red;
+    background-color: aqua;
+}
